@@ -1,0 +1,41 @@
+{
+  "books": [
+    {
+       "id": 1,
+       "title": "The Great Gatsby",
+       "authors": [
+          {
+             "id": 1,
+             "name": "F. Scott Fitzgerald"
+          }
+       ],
+       "description": "The story of the fabulously wealthy Jay Gatsby and his love for the beautiful Daisy Buchanan.",
+       "coverImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/The_Great_Gatsby_Cover_1925_Retouched.jpg/220px-The_Great_Gatsby_Cover_1925_Retouched.jpg"
+    },
+    {
+       "id": 2,
+       "title": "To Kill a Mockingbird",
+       "authors": [
+          {
+             "id": 2,
+             "name": "Harper Lee"
+          }
+       ],
+       "description": "The story of racial injustice and the destruction of innocence in a small Southern town.",
+       "coverImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/To_Kill_a_Mockingbird.JPG/220px-To_Kill_a_Mockingbird.JPG"
+    },
+    {
+       "id": 3,
+       "title": "1984",
+       "authors": [
+          {
+             "id": 3,
+             "name": "George Orwell"
+          }
+       ],
+       "description": "A dystopian novel set in a totalitarian society where government surveillance and control is pervasive.",
+       "coverImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/1984first.jpg/220px-1984first.jpg"
+    }
+ ]
+
+}

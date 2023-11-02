@@ -1,0 +1,16 @@
+C:\ErlyAssignment\bin\Debug\net5.0\ErlyAssignment.exe
+C:\ErlyAssignment\bin\Debug\net5.0\ErlyAssignment.deps.json
+C:\ErlyAssignment\bin\Debug\net5.0\ErlyAssignment.runtimeconfig.json
+C:\ErlyAssignment\bin\Debug\net5.0\ErlyAssignment.runtimeconfig.dev.json
+C:\ErlyAssignment\bin\Debug\net5.0\ErlyAssignment.dll
+C:\ErlyAssignment\bin\Debug\net5.0\ref\ErlyAssignment.dll
+C:\ErlyAssignment\bin\Debug\net5.0\ErlyAssignment.pdb
+C:\ErlyAssignment\obj\Debug\net5.0\ErlyAssignment.csproj.AssemblyReference.cache
+C:\ErlyAssignment\obj\Debug\net5.0\ErlyAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\ErlyAssignment\obj\Debug\net5.0\ErlyAssignment.AssemblyInfoInputs.cache
+C:\ErlyAssignment\obj\Debug\net5.0\ErlyAssignment.AssemblyInfo.cs
+C:\ErlyAssignment\obj\Debug\net5.0\ErlyAssignment.csproj.CoreCompileInputs.cache
+C:\ErlyAssignment\obj\Debug\net5.0\ErlyAssignment.dll
+C:\ErlyAssignment\obj\Debug\net5.0\ref\ErlyAssignment.dll
+C:\ErlyAssignment\obj\Debug\net5.0\ErlyAssignment.pdb
+C:\ErlyAssignment\obj\Debug\net5.0\ErlyAssignment.genruntimeconfig.cache

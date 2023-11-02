@@ -1,0 +1,16 @@
+{
+  "authors": [
+    {
+       "id": 1,
+       "name": "F. Scott Fitzgerald"
+    },
+    {
+       "id": 2,
+       "name": "Harper Lee"
+    },
+    {
+       "id": 3,
+       "name": "George Orwell"
+    }
+ ]
+}
